@@ -1,7 +1,0 @@
-{
-  "inventory": [
-    { "name": "sword", "weight": 4 },
-    { "name": "shield", "weight": 6 },
-    { "name": "potion", "weight": 1 }
-  ]
-}

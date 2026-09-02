@@ -1,7 +1,0 @@
-{
-  "items": [
-    { "name": "sword", "price": 100 },
-    { "name": "shield", "price": 120 },
-    { "name": "ring", "price": 250 }
-  ]
-}
